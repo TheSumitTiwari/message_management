@@ -1,0 +1,34 @@
+html body{
+	background:#6291de;
+}
+
+h1{
+	color: black;
+	font-weight: 500;
+}
+
+.btnreg {
+	background: #ff1a1a !important;
+}
+
+.btnreg:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+}
+
+.btnlog {
+	background: #cccccc !important;
+	margin-top: 10px !important;
+}
+
+.btnlog:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+}
+
+.container .card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+}

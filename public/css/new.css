@@ -1,0 +1,112 @@
+*{ 
+  margin:0; 
+  padding:0; 
+}
+
+/* HEADER */
+
+header h1{
+  margin-left: 2rem;
+  margin-top: 1rem;
+  font-family: 'Pacifico', cursive;
+
+}
+
+/* Nav */
+
+.navbar{
+  background-color:black;
+}
+
+.navbar {
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+}
+
+.navbar .left_nav{
+  margin-left: 150px;
+}
+
+.navbar .right_nav{
+  margin-right: 20px;
+}
+
+.navbar li{
+  display: inline;
+  font-weight: 400;
+}
+
+ul .ask_b{
+  margin-right: 15px;
+  height: 15px !important;
+}
+
+.navbar li a{
+  color:#cccccc;
+  font-size: 18px;
+  font-weight:500;
+}
+
+.navbar li a:hover{
+  color:#ffffff;
+}
+
+.navbar li .dropdown-menu a{
+  color:#000000 !important;
+}
+
+.b_color{
+  background-color: white;
+}
+.b_color header h1{
+  margin:0;
+  padding: 10px;
+  padding-left:30px;
+  color: black;
+}
+
+nav .bd-search{
+  background-color:red;
+}
+
+.fa, .fas{
+  margin-left: 20px !important;
+}
+
+.mar{
+  margin-left: 6em !important;
+}
+.mar1{
+  margin-left: 5em !important;
+}
+.mar2{
+  margin-left: 7em !important;
+}
+.mar3{
+  margin-left: 4em !important;
+}
+.mar4{
+  margin-left: 6em !important;
+}
+
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.btn:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+}
+
+.heading{
+  display: inline-block;
+}
+
+.navbar .right_nav{
+  margin-right: 12em;
+}

@@ -1,0 +1,74 @@
+
+html body{
+    background:#6291de;
+}
+
+input{
+    display: block;
+    margin: 10px auto !important;
+    width: 50%;
+}
+
+input[type="submit"]{
+    
+    width: 50%;
+    background-color:#ff1a1a;
+    font-weight:500;
+    color: white;
+}
+input[type="submit"]:focus{
+    color: white;
+    background-color:#e62e00;
+}
+
+input[type="submit"]:hover{
+    color: white;
+    background-color: red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+    
+}
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+input[type="text"]{
+
+    border:1.5px solid #bfbfbf;
+    padding: 4px;
+}
+
+input[type="password"]{
+
+    border:1.5px solid #bfbfbf;
+    padding: 4px;
+}
+.container .card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+a[role="button"] {  
+    width: 50%;
+    background-color:#ff1a1a;
+    font-weight:500;
+    color: white;
+}
+
+a[role="button"]:focus{
+    outline: none !important;
+    background-color:#e62e00;
+    color: white;
+}
+
+a[role="button"]:hover{
+    outline: none !important;
+    background-color: red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+    color: white;
+}
+
+p{
+   margin-top: 0 !important;
+   margin-bottom: 0 !important;
+}
