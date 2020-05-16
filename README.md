@@ -2,10 +2,10 @@
 It is a web app which provides an platform to manage record of different kinds of messages and their details.
 
 Technologies used are:<br />
-01 node.js<br />
-02 express.js<br />
-03 mongoDB<br />
-04 ejs<br />
-05 css<br />
-06 bootstrap<br />
-07 semantic ui
+01 __node.js__<br />
+02 __express.js__<br />
+03 __mongoDB__<br />
+04 __ejs__<br />
+05 __css__<br />
+06 __bootstrap__<br />
+07 __semantic ui__
