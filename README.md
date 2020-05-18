@@ -1,5 +1,5 @@
 # message_management
-It is a web app which provides an platform to manage record of different kinds of messages and their details.
+It is a web app which provides an platform to manage record of different kinds of programming messages(ERROR, INFO, etc) and their details.
 
 Technologies used are:<br />
 01 __node.js__<br />
